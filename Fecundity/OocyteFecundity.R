@@ -1,4 +1,4 @@
-# CODE FROM LEINBACH ET AL. 2021 - Coral recovery, but at a cost: energetic and reproductive consequences of divergent bleaching responses   
+# CODE FROM LEINBACH ET AL. 2021 - Energetic and reproductive costs of coral recovery in divergent bleaching responses   
 # large sections of commented out code are analyses/graphs not included in the paper OR model outputs - model outputs are indented
 # only model outputs from results in the paper are included in the script
 # NOTE: although depth was never significant in our models, after subsequent analyses we found that depth and heat stress response 
